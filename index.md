@@ -1,1 +1,1 @@
-<html>https://solipsisticmonistidealistpantheism.github.io//SMIPPrivacyPolicy/</html>
+<html>https://solipsisticmonistidealistpantheism.github.io/SMIPPrivacyPolicy/</html>
