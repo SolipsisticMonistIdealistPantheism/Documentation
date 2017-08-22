@@ -1,1 +1,1 @@
-Documentation/SMIP Privacy Policy Document.htm
+<html>Documentation/SMIP Privacy Policy Document.htm</html>
