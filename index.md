@@ -1,1 +1,1 @@
-<html>Documentation/SMIP Privacy Policy Document.htm</html>
+<html>Documentation/SMIPPrivacyPolicyDocument.htm</html>
